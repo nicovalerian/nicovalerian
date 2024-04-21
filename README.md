@@ -7,8 +7,6 @@
 
 - 🌱 I’m currently learning **C/C++, Python, JavaScript**
 
-- 💬 Ask me about **anything I'm not clueless about**
-
 - ⚡ "Give a man a program, and he'll be frustrated for a day. Teach a man to program, and he'll be frustrated for a lifetime."
 
 # 💻 Tech Stack:
