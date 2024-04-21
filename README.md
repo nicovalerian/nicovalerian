@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nicovalerian&label=Profile%20views&color=0e75b6&style=flat" alt="nicovalerian" /> </p>
 
-- 🔭 I’m currently working on my [simple sign-up form project](https://github.com/nicovalerian/signup-form)
+- 🔭 I’m currently working on my [admin dashboard](https://github.com/nicovalerian/admin-dashboard).
 
 - 🌱 I’m currently learning **C/C++, Python, JavaScript**
 
