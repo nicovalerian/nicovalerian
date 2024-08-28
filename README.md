@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nicovalerian&label=Profile%20views&color=0e75b6&style=flat" alt="nicovalerian" /> </p>
 
-- 🌱 I’m currently learning **Python & JavaScript**
+- 🌱 I’m currently learning **React**
 
 - ⚡ "Give a man a program, and he'll be frustrated for a day. Teach a man to program, and he'll be frustrated for a lifetime."
 
